@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ConquestSucks.github.io/static/css/main.e3968798.css",
+    "main.js": "/ConquestSucks.github.io/static/js/main.7ae34d44.js",
+    "static/js/453.7c6c8075.chunk.js": "/ConquestSucks.github.io/static/js/453.7c6c8075.chunk.js",
+    "index.html": "/ConquestSucks.github.io/index.html",
+    "static/media/edit.svg": "/ConquestSucks.github.io/static/media/edit.54b51d66a4fa011b45d79a684766dc99.svg",
+    "static/media/arrow.svg": "/ConquestSucks.github.io/static/media/arrow.d5799531ca2a931e4cec045a2d08ddd9.svg",
+    "static/media/trash.svg": "/ConquestSucks.github.io/static/media/trash.e23f858634d2356bea1bf7dc92d78e05.svg",
+    "main.e3968798.css.map": "/ConquestSucks.github.io/static/css/main.e3968798.css.map",
+    "main.7ae34d44.js.map": "/ConquestSucks.github.io/static/js/main.7ae34d44.js.map",
+    "453.7c6c8075.chunk.js.map": "/ConquestSucks.github.io/static/js/453.7c6c8075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3968798.css",
+    "static/js/main.7ae34d44.js"
+  ]
+}
