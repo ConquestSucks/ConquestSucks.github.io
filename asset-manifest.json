@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/todoapp/static/css/main.52996709.css",
-    "main.js": "/todoapp/static/js/main.bda36ebc.js",
-    "static/js/453.7c6c8075.chunk.js": "/todoapp/static/js/453.7c6c8075.chunk.js",
-    "index.html": "/todoapp/index.html",
-    "static/media/edit.svg": "/todoapp/static/media/edit.54b51d66a4fa011b45d79a684766dc99.svg",
-    "static/media/arrow.svg": "/todoapp/static/media/arrow.d5799531ca2a931e4cec045a2d08ddd9.svg",
-    "static/media/trash.svg": "/todoapp/static/media/trash.e23f858634d2356bea1bf7dc92d78e05.svg",
-    "main.52996709.css.map": "/todoapp/static/css/main.52996709.css.map",
-    "main.bda36ebc.js.map": "/todoapp/static/js/main.bda36ebc.js.map",
-    "453.7c6c8075.chunk.js.map": "/todoapp/static/js/453.7c6c8075.chunk.js.map"
+    "main.css": "/conquestsucks.github.io/static/css/main.52996709.css",
+    "main.js": "/conquestsucks.github.io/static/js/main.42d21dda.js",
+    "static/js/453.7c6c8075.chunk.js": "/conquestsucks.github.io/static/js/453.7c6c8075.chunk.js",
+    "index.html": "/conquestsucks.github.io/index.html",
+    "static/media/edit.svg": "/conquestsucks.github.io/static/media/edit.54b51d66a4fa011b45d79a684766dc99.svg",
+    "static/media/arrow.svg": "/conquestsucks.github.io/static/media/arrow.d5799531ca2a931e4cec045a2d08ddd9.svg",
+    "static/media/trash.svg": "/conquestsucks.github.io/static/media/trash.e23f858634d2356bea1bf7dc92d78e05.svg",
+    "main.52996709.css.map": "/conquestsucks.github.io/static/css/main.52996709.css.map",
+    "main.42d21dda.js.map": "/conquestsucks.github.io/static/js/main.42d21dda.js.map",
+    "453.7c6c8075.chunk.js.map": "/conquestsucks.github.io/static/js/453.7c6c8075.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52996709.css",
-    "static/js/main.bda36ebc.js"
+    "static/js/main.42d21dda.js"
   ]
 }
