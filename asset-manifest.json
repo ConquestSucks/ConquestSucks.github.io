@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.52996709.css",
-    "main.js": "/react-gh-pages/static/js/main.81de71b0.js",
-    "static/js/453.7c6c8075.chunk.js": "/react-gh-pages/static/js/453.7c6c8075.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/edit.svg": "/react-gh-pages/static/media/edit.54b51d66a4fa011b45d79a684766dc99.svg",
-    "static/media/arrow.svg": "/react-gh-pages/static/media/arrow.d5799531ca2a931e4cec045a2d08ddd9.svg",
-    "static/media/trash.svg": "/react-gh-pages/static/media/trash.e23f858634d2356bea1bf7dc92d78e05.svg",
-    "main.52996709.css.map": "/react-gh-pages/static/css/main.52996709.css.map",
-    "main.81de71b0.js.map": "/react-gh-pages/static/js/main.81de71b0.js.map",
-    "453.7c6c8075.chunk.js.map": "/react-gh-pages/static/js/453.7c6c8075.chunk.js.map"
+    "main.css": "/todoapp/static/css/main.52996709.css",
+    "main.js": "/todoapp/static/js/main.bda36ebc.js",
+    "static/js/453.7c6c8075.chunk.js": "/todoapp/static/js/453.7c6c8075.chunk.js",
+    "index.html": "/todoapp/index.html",
+    "static/media/edit.svg": "/todoapp/static/media/edit.54b51d66a4fa011b45d79a684766dc99.svg",
+    "static/media/arrow.svg": "/todoapp/static/media/arrow.d5799531ca2a931e4cec045a2d08ddd9.svg",
+    "static/media/trash.svg": "/todoapp/static/media/trash.e23f858634d2356bea1bf7dc92d78e05.svg",
+    "main.52996709.css.map": "/todoapp/static/css/main.52996709.css.map",
+    "main.bda36ebc.js.map": "/todoapp/static/js/main.bda36ebc.js.map",
+    "453.7c6c8075.chunk.js.map": "/todoapp/static/js/453.7c6c8075.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52996709.css",
-    "static/js/main.81de71b0.js"
+    "static/js/main.bda36ebc.js"
   ]
 }
